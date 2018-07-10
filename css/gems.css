@@ -35,7 +35,7 @@
 }
 
 /* Select the image that has ad id of diamond */
-#diamond img[alt="Diamond"{
+#diamond img[alt="Diamond"]{
   position: absolute;
   z-index: 3;
   top: 300px;
