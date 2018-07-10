@@ -10,7 +10,7 @@
 
 /* Select the image with class of emerald */
 
-.emerald  {
+.emerald{
   position: absolute;
   z-index: 2;
   top: 350px;
@@ -19,7 +19,7 @@
 
 /* Select the image inside the element with an id of sand (using its descendant relationship) */
 
-#sand img{
+#sand img[alt="Sapphire"]{
   position: absolute;
   z-index: 5;
   top: 315px;
