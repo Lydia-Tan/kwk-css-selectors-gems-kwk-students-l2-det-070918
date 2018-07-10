@@ -19,7 +19,7 @@
 
 /* Select the image inside the element with an id of sand (using its descendant relationship) */
 
-#sand img[alt="Sapphire"]{
+#sand img{
   position: absolute;
   z-index: 5;
   top: 315px;
@@ -35,7 +35,7 @@
 }
 
 /* Select the image that has ad id of diamond */
-#diamond{
+#diamond img[alt="Diamond"{
   position: absolute;
   z-index: 3;
   top: 300px;
